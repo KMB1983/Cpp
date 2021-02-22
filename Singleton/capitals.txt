@@ -1,0 +1,6 @@
+Prague
+10000
+London
+20000
+Chicago
+30000
